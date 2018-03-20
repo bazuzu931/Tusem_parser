@@ -1,3 +1,3 @@
-Parser and downloads videos from http://www.tusvideolari.com/
+Parse and downloads videos from http://www.tusvideolari.com/
 
 

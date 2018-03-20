@@ -54,6 +54,6 @@ class TusemSpiderSpider(scrapy.Spider):
 			with open(tus_file, 'a') as f:
 				f.write(res)
 
-		command = "youtube-dl --output '" + tus_folder_path + "/%(title)s.%(ext)s' -c " + str(res)
-		os.system(command)
-		sleep(1)
+		# command = "youtube-dl --output '" + tus_folder_path + "/%(title)s.%(ext)s' -c " + str(res)
+		# os.system(command)
+		# sleep(1)
